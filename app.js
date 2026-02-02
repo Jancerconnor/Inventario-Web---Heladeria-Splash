@@ -3,7 +3,7 @@
 // Lista de productos (actualizados a Heladería)
 let productos = [
     {id: 1, nombre: "Cubo de Helado", precio: 700, cantidad: 15},
-    {id: 2, nombre: "Helado de vaso 50", precio: 50, cantidad: "—"},
+    {id: 2, nombre: "Helado de vaso 60", precio: 50, cantidad: "—"},
     {id: 3, nombre: "Helado de vaso 100", precio: 100, cantidad: "—"},
     {id: 4, nombre: "Helado de vaso 125", precio: 125, cantidad: "—"},
     {id: 5, nombre: "Helado de vaso 150", precio: 150, cantidad: "—"},
